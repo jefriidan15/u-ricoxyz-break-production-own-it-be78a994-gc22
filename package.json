@@ -1,0 +1,1 @@
+{"description":"Break Production, Own It — golden-condor-22 entry","license":"MIT","main":"main.ts","name":"break-production-own-it-gc22","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
